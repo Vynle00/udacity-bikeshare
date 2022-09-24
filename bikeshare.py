@@ -243,6 +243,7 @@ def raw_data(df):
         else:
             break
     
+# this comment serves as a refactoring #2
 
 def main():
     while True:
