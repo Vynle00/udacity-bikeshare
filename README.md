@@ -18,7 +18,12 @@ The Chicago and New York City files also have the following two columns:
 Gender
 Birth Year
 
+The following questions were answered in the analysis:
 
+Would you like to see data for Chicago, New York, or Washington?
+Would you like to filter the data by month, day, or not at all?
+(If they chose month) Which month - January, February, March, April, May, or June?
+(If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
 
 ## Requirements
 `Python 3.x` and `Pandas`.
