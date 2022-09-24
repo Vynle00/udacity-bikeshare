@@ -6,6 +6,9 @@ CITY_DATA = { 'CHICAGO': 'chicago.csv',
               'NEW YORK CITY': 'new_york_city.csv',
               'WASHINGTON': 'washington.csv' }
 
+
+# this comment serves as a refactoring #1
+
 def get_filters():
 
     """
